@@ -1,0 +1,17 @@
+[
+    {
+      "Name": "AI-100-Design-Implement-Azure-AISol",
+      "Language": "English",
+      "BaseURL": "https://github.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/alwinvw23/CloudLabs/master/LabIntro.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/master/Lab2-Implement_Computer_Vision/02-Implement_Computer_Vision.md",
+          "Order": 2
+        }
+      ]
+    }
+]
